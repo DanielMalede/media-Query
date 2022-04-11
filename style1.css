@@ -34,3 +34,8 @@
 #nils{
     filter: blur(4px);
 }
+
+.links{
+    display: flex;
+    direction: rtl;
+}

@@ -33,3 +33,7 @@
 #nils{
     filter: grayscale(1);
 }
+
+.links{
+    display:grid;
+}
